@@ -1,0 +1,51 @@
+[{
+  "id": 1,
+  "first_name": "Federico",
+  "last_name": "Bassil",
+  "address": "777 Brockton Avenue, Abington MA 2351"
+}, {
+  "id": 2,
+  "first_name": "Veronica",
+  "last_name": "Swayne",
+  "address": "30 Memorial Drive, Avon MA 2322"
+}, {
+  "id": 3,
+  "first_name": "Amandi",
+  "last_name": "Dutson",
+  "address": "250 Hartford Avenue, Bellingham MA 2019"
+}, {
+  "id": 4,
+  "first_name": "Halette",
+  "last_name": "Diwell",
+  "address": "700 Oak Street, Brockton MA 2301"
+}, {
+  "id": 5,
+  "first_name": "Caye",
+  "last_name": "Pott",
+  "address": "66-4 Parkhurst Rd, Chelmsford MA 1824"
+}, {
+  "id": 6,
+  "first_name": "Agnella",
+  "last_name": "MacCallam",
+  "address": "591 Memorial Dr, Chicopee MA 1020"
+}, {
+  "id": 7,
+  "first_name": "Pepita",
+  "last_name": "Halegarth",
+  "address": "55 Brooksby Village Way, Danvers MA 1923"
+}, {
+  "id": 8,
+  "first_name": "Eliza",
+  "last_name": "Slyford",
+  "address": "137 Teaticket Hwy, East Falmouth MA 2536"
+}, {
+  "id": 9,
+  "first_name": "Mariejeanne",
+  "last_name": "Hawthorne",
+  "address": "42 Fairhaven Commons Way, Fairhaven MA 2719"
+}, {
+  "id": 10,
+  "first_name": "Cele",
+  "last_name": "Cordes",
+  "address": "374 William S Canning Blvd, Fall River MA 2721"
+}]
